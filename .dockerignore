@@ -1,0 +1,7 @@
+gateway/setupProxy.js
+gateway/node_modules
+gateway/build
+
+old
+bkp
+Dockerfile
